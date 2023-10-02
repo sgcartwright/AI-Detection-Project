@@ -1,16 +1,16 @@
-Assessing the Effectiveness of AI Writing Detectors
-Table of Contents
+# Assessing the Effectiveness of AI Writing Detectors
+### Table of Contents
 
     Project Overview
     Methods Summary
     Usage
     Installation
-    License
 
-Project Overview
+### Project Overview
 
 This Python project aims to automate the evaluation and generation of essays using various AI models and online essay checkers. It provides methods to assess the authenticity of essays and generate new ones. The project is designed to be user-friendly, allowing users to evaluate essays, generate content, and visualize the results.
-Methods Summary
+
+### Methods Summary
 
 This project includes the following main methods:
 
@@ -56,18 +56,14 @@ This project includes the following main methods:
     graph()
         User interface method to generate any desired graphs.
 
-Usage
+### Usage
 
 The project provides methods to evaluate essays, generate content, and visualize results. To get started, you can call the relevant methods with appropriate arguments based on your specific use case.
-Installation
+### Installation
 
 To use this project, ensure you have the necessary Python libraries installed. You can install these libraries using pip:
 
-bash
-
 pip install openai pandas selenium requests matplotlib seaborn
 
-Additionally, you will need to set up your OpenAI API key by replacing the placeholder in the code with your actual API key.
-License
+Additionally, you will need to set up your OpenAI API key by replacing the placeholder in the code with your actual API key. You must do the same for Writer checker API.
 
-This project is licensed under the MIT License. Feel free to use and modify it as needed for your own purposes.

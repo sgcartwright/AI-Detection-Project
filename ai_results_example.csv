@@ -1,0 +1,5 @@
+,Prompt,Tone,Writer Score,Cross_Plag Score,ZeroGPT Score,Sapling Score
+0,world war 1,formal,0.51,1.0,1.0,1.0
+1,world war 1,casual,0.43,0.62,1.0,0.99
+2,abraham lincoln,formal,0.81,1.0,1.0,1.0
+3,abraham lincoln,casual,0.09,0.0,1.0,1.0

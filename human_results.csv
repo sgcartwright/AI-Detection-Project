@@ -1,0 +1,71 @@
+,Prompt,Theme,Writer Score,Cross-Plag Score,ZeroGPT Score,Sapling Score
+0,The Mona Lisa,art,0.94,0.54,0,0
+1,Starry Night,art,0.03,1,0,0.99
+2,The Last Supper,art,0.08,0.85,0,1
+3,The Sistine Chapel,art,0.28,0.01,0,0
+4,The Persistence of Memory,art,0.36,0.01,0.14,0
+5,Nighthawks,art,0.9,0.1,0,0.05
+6,Bird in Space,art,0.01,0.01,0,0
+7,The Treachery of Images,art,0,0.01,0,0
+8,The Raft of the Medusa,art,0.03,0.01,0,0
+9,The Night Watch,art,0,0.01,0,0
+10,Ode to Joy,music,0,0.01,0,0
+11,Beethoven's Fifth,music,0.26,0.01,0.17,0
+12,Suite Bergamasque,music,0.33,0.02,0,1
+13,Clair de Lune,music,0.02,0.01,0,0
+14,Bohemian Rhapsody,music,0.4,0.01,0,0
+15,Fur Elise,music,0.06,0.01,0,0
+16,In the Hall of the Mountain King,music,0.58,0.01,0,0
+17,Ride of the Valkyries,music,0.07,0.01,0.1,1
+18,Requiem,music,0,0.01,0,0
+19,Moonlight Sonata,music,0,0.01,0,0
+20,World War 2,history,0.95,0.99,0.1,1
+21,Emancipation of slavery,history,0.04,0.16,0.17,0
+22,The Roman Empire,history,0.48,0.12,0,0
+23,The Civil Rights Movement,history,0.86,0.98,0.55,0.74
+24,The signing of the Declaration of Independence,history,0.5,0.19,0,0
+25,The Black Plague,history,0.17,0.01,0,0
+26,The bombing of Hiroshima,history,0.08,0.44,0.52,0
+27,The French Revolution,history,0,0.01,0.28,0
+28,9 11,history,0,0.01,0.58,0
+29,The Magna Carta,history,0,0.8,0.15,1
+30,George Washington,person,0.01,0.01,0,0
+31,Rihanna,person,0.33,0.02,0,0
+32,Lionel Messi,person,0.06,0.01,0.39,0
+33,Pablo Picasso,person,0.09,0.01,0,1
+34,Elon Musk,person,0.22,0.01,0,0
+35,Martin Luther King Jr,person,0.14,0.01,0,0
+36,King Henry VIII,person,0.13,1,0.8,1
+37,Aristotle,person,0.13,0.01,0,0
+38,Abraham Lincoln,person,0.82,0.01,0,0
+39,Rasputin,person,0.09,0.15,0,0
+40,cancer,diseases,0.84,1,0.94,1
+41,ebola,diseases,0.37,0.01,0.35,0
+42,tuberculosis,diseases,0.98,0.98,0.3,0
+43,hypertension,diseases,0,0.01,0,0
+44,heart disease,diseases,0.01,0.01,0.36,0
+45,Alzheimer's,diseases,0.26,0.01,0.14,0
+46,diabetes,diseases,0.06,0.01,0.79,0.63
+47,Schizophrenia,diseases,0.1,0.03,0.21,0
+48,HIV,diseases,0.24,0.3,0.22,0
+49,allergies,diseases,0,0.01,0,0
+50,the effect of climate change on ecosystems,climate/animals,0.22,0.01,0,0
+51,the consequences of deforestation around the world,climate/animals,0.19,0.01,0.23,0
+52,rising sea levels,climate/animals,0.4,0.01,0.35,0
+53,the possibility of renewable energy sources,climate/animals,0.97,1,0,0
+54,the impact of captivity on animals,climate/animals,0,0.01,0,0
+55,the intelligence of chimpanzees,climate/animals,0,0.01,0,0
+56,the dangers of parasites,climate/animals,0.07,0.09,0,0
+57,new farming techniques,climate/animals,0.01,0.18,0.49,0
+58,the impact of natural disasters,climate/animals,0.26,0.05,0.35,0
+59,the dangers of invasive species,climate/animals,0.87,0.01,0,0
+60,Stonehenge,landmarks,0.09,0.03,0,0
+61,The Washington Monument,landmarks,0.03,0.01,0.41,0.02
+62,Machu Pichu,landmarks,0,0.01,0,0
+63,The Pyramids of Giza,landmarks,0.37,0.01,0,0
+64,Niagara Falls,landmarks,0.46,0.01,0.26,0
+65,Mount Rushmore,landmarks,0.01,0.01,0,0
+66,Taj Mahal,landmarks,0.01,0.01,0,0
+67,Palace of Versailles,landmarks,0,0.01,0,0
+68,Parthenon,landmarks,0.02,0.01,0,0
+69,The Colosseum,landmarks,0.01,0.01,0.07,0

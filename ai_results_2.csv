@@ -1,0 +1,401 @@
+num,topic,Prompt,Tone,Writer Score,Cross-Plag Score,ZeroGPT Score,Sapling Score
+0,art,The Mona Lisa,formal,0.06,0.01,1,1
+1,art,The Mona Lisa,informal,0.93,1,1,0.99
+2,art,The Mona Lisa,anxious,0.68,1,1,1
+3,art,The Mona Lisa,optimistic,0.8,1,0.2,0.99
+4,art,The Mona Lisa,persuasive,0.7,0.59,0.74,1
+5,art,Starry night,formal,0.9,0.02,0.8,1
+6,art,Starry night,informal,0.63,1,1,0.99
+7,art,Starry night,anxious,0.08,0.74,0.64,1
+8,art,Starry night,optimistic,0.09,1,0,1
+9,art,Starry night,persuasive,0.33,1,0.64,1
+10,art,The Last Supper,formal,0.05,0.01,0.35,0
+11,art,The Last Supper,informal,0.88,1,1,0.99
+12,art,The Last Supper,anxious,0.91,1,1,1
+13,art,The Last Supper,optimistic,0.46,1,1,1
+14,art,The Last Supper,persuasive,0.27,1,0.76,1
+15,art,The Sistine Chapel,formal,0,0.01,0.82,0.01
+16,art,The Sistine Chapel,informal,0.04,0.19,1,1
+17,art,The Sistine Chapel,anxious,0.16,0.01,0,0
+18,art,The Sistine Chapel,optimistic,0.54,1,1,1
+19,art,The Sistine Chapel,persuasive,0.01,0.09,0.69,1
+20,art,The Persistence of Memory,formal,0.21,0.1,0,1
+21,art,The Persistence of Memory,informal,0.34,0.13,0.67,1
+22,art,The Persistence of Memory,anxious,0.96,1,0.6,1
+23,art,The Persistence of Memory,optimistic,0.16,0.67,0,0.99
+24,art,The Persistence of Memory,persuasive,0.44,1,0,0.99
+25,art,Nighthawks,formal,0.95,1,0.7,1
+26,art,Nighthawks,informal,0.2,0.97,0,1
+27,art,Nighthawks,anxious,0.12,0.99,0,0
+28,art,Nighthawks,optimistic,0.97,1,0.35,1
+29,art,Nighthawks,persuasive,0.8,1,0.43,1
+30,art,Bird in Space,formal,0.89,0.01,0,0
+31,art,Bird in Space,informal,0.27,0.05,0,0
+32,art,Bird in Space,anxious,0.05,0.54,1,1
+33,art,Bird in Space,optimistic,0.92,1,0.58,1
+34,art,Bird in Space,persuasive,0,0.01,0,0
+35,art,The Treachery of Images,formal,0.75,1,0.54,1
+36,art,The Treachery of Images,informal,0,0.02,0,0
+37,art,The Treachery of Images,anxious,0.01,0.01,0,0
+38,art,The Treachery of Images,optimistic,0.76,0.96,1,1
+39,art,The Treachery of Images,persuasive,0.38,1,0.81,1
+40,art,The Raft of the Medusa,formal,0.06,0.01,0.5,0.18
+41,art,The Raft of the Medusa,informal,0.44,0.56,1,0.88
+42,art,The Raft of the Medusa,anxious,0.01,0.01,0,0
+43,art,The Raft of the Medusa,optimistic,0.33,0.01,1,0
+44,art,The Raft of the Medusa,persuasive,0.01,0.22,0.69,0
+45,art,The Night Watch,formal,0.17,0.01,0.24,0
+46,art,The Night Watch,informal,0.75,0.6,0.8,1
+47,art,The Night Watch,anxious,0,0.01,0,0
+48,art,The Night Watch,optimistic,1,1,0.85,1
+49,art,The Night Watch,persuasive,0.01,0.05,0.38,0
+50,music,Ode to Joy,formal,0.57,0.76,0.66,1
+51,music,Ode to Joy,informal,0.49,1,1,0.99
+52,music,Ode to Joy,anxious,0.92,1,1,1
+53,music,Ode to Joy,optimistic,0.04,0.94,0.73,0.77
+54,music,Ode to Joy,persuasive,0,0.01,0.29,0
+55,music,Beethoven's Fifth,formal,0.17,0.01,0.89,0.01
+56,music,Beethoven's Fifth,informal,0.03,0.99,1,0.09
+57,music,Beethoven's Fifth,anxious,0.87,1,0.71,1
+58,music,Beethoven's Fifth,optimistic,0.57,0.99,0.64,1
+59,music,Beethoven's Fifth,persuasive,0.26,0.97,1,0
+60,music,Suite Bergamasque,formal,0,0.01,0,0
+61,music,Suite Bergamasque,informal,0.69,0.46,0.44,1
+62,music,Suite Bergamasque,anxious,0.85,0.77,0,0.99
+63,music,Suite Bergamasque,optimistic,0.06,0.99,0,0
+64,music,Suite Bergamasque,persuasive,0.05,1,0,0
+65,music,Clair de Lune,formal,0.06,0.01,0,0
+66,music,Clair de Lune,informal,0.01,0.01,0,0
+67,music,Clair de Lune,anxious,0.4,0.81,0,0
+68,music,Clair de Lune,optimistic,0.18,0.02,0,0
+69,music,Clair de Lune,persuasive,0.94,1,0.62,1
+70,music,Bohemian Rhapsody,formal,0.92,1,1,1
+71,music,Bohemian Rhapsody,informal,0.09,0.19,0.8,1
+72,music,Bohemian Rhapsody,anxious,0.09,1,1,1
+73,music,Bohemian Rhapsody,optimistic,1,1,0.85,1
+74,music,Bohemian Rhapsody,persuasive,0.96,1,0.73,1
+75,music,Fur Elise,formal,0.07,0.01,0.57,1
+76,music,Fur Elise,informal,0.19,1,0.81,1
+77,music,Fur Elise,anxious,0.76,0.32,0,1
+78,music,Fur Elise,optimistic,0.01,0.5,0.67,1
+79,music,Fur Elise,persuasive,0.05,0.02,0,0.96
+80,music,In the Hall of the Mountain King,formal,0.98,0.91,0,1
+81,music,In the Hall of the Mountain King,informal,0.93,0.99,0,1
+82,music,In the Hall of the Mountain King,anxious,0,0.01,0,0
+83,music,In the Hall of the Mountain King,optimistic,0.2,0.55,0,1
+84,music,In the Hall of the Mountain King,persuasive,0.94,1,0.86,1
+85,music,Ride of the Valkyries,formal,0.03,0.01,0,0
+86,music,Ride of the Valkyries,informal,1,1,0.52,0.99
+87,music,Ride of the Valkyries,anxious,0.01,0.01,0,0
+88,music,Ride of the Valkyries,optimistic,0.82,0.39,1,0
+89,music,Ride of the Valkyries,persuasive,0.76,0.96,1,1
+90,music,Requiem,formal,0.98,1,1,1
+91,music,Requiem,informal,0,0.01,1,0
+92,music,Requiem,anxious,0.11,0.28,0.43,0
+93,music,Requiem,optimistic,0.12,1,0,0
+94,music,Requiem,persuasive,0.95,1,1,1
+95,music,Moonlight Sonata,formal,0.23,0.01,0,0
+96,music,Moonlight Sonata,informal,0.05,0.85,0.97,0
+97,music,Moonlight Sonata,anxious,0.01,0.54,1,0
+98,music,Moonlight Sonata,optimistic,0.62,1,1,1
+99,music,Moonlight Sonata,persuasive,0.08,1,1,1
+100,history,World War 2,formal,0.65,1,1,1
+101,history,World War 2,informal,1,1,1,0.99
+102,history,World War 2,anxious,0.03,0.41,1,1
+103,history,World War 2,optimistic,0.06,0.02,1,1
+104,history,World War 2,persuasive,0.03,0.97,1,1
+105,history,Emancipation of slavery,formal,0.01,0.01,1,1
+106,history,Emancipation of slavery,informal,0.62,0.83,1,0.99
+107,history,Emancipation of slavery,anxious,0.28,0.42,0,1
+108,history,Emancipation of slavery,optimistic,0.1,0.91,1,1
+109,history,Emancipation of slavery,persuasive,0.97,0.99,1,1
+110,history,The Roman Empire,formal,0.17,0.01,0.67,1
+111,history,The Roman Empire,informal,0.29,0.01,0.42,1
+112,history,The Roman Empire,anxious,0.17,0.33,0,1
+113,history,The Roman Empire,optimistic,1,1,0.62,1
+114,history,The Roman Empire,persuasive,0.75,1,0.79,1
+115,history,The Civil Rights Movement,formal,0.11,0.01,0.79,1
+116,history,The Civil Rights Movement,informal,0.95,1,1,0.99
+117,history,The Civil Rights Movement,anxious,0,0.01,0.58,0
+118,history,The Civil Rights Movement,optimistic,0.46,0.57,1,1
+119,history,The Civil Rights Movement,persuasive,0.02,0.15,1,0.76
+120,history,The signing of the Declaration of Independence,formal,0.07,0.07,1,0.99
+121,history,The signing of the Declaration of Independence,informal,0,0.01,1,1
+122,history,The signing of the Declaration of Independence,anxious,0,0.56,0.55,1
+123,history,The signing of the Declaration of Independence,optimistic,0.98,1,1,1
+124,history,The signing of the Declaration of Independence,persuasive,0.46,1,0.9,1
+125,history,The Black Plague,formal,0.4,0.01,0.76,1
+126,history,The Black Plague,informal,0.84,0.23,1,0.99
+127,history,The Black Plague,anxious,0,0.61,1,1
+128,history,The Black Plague,optimistic,0.98,0.98,1,1
+129,history,The Black Plague,persuasive,0.01,0.01,0.31,0
+130,history,The bombing of Hiroshima,formal,0,0.1,1,0.99
+131,history,The bombing of Hiroshima,informal,0.66,0.28,1,1
+132,history,The bombing of Hiroshima,anxious,0.49,0.54,1,1
+133,history,The bombing of Hiroshima,optimistic,0,0.28,1,1
+134,history,The bombing of Hiroshima,persuasive,0.98,1,1,0.99
+135,history,The French Revolution,formal,0.12,0.02,1,1
+136,history,The French Revolution,informal,0.96,1,1,0.98
+137,history,The French Revolution,anxious,0.91,0.93,0.33,1
+138,history,The French Revolution,optimistic,0.77,1,1,1
+139,history,The French Revolution,persuasive,1,1,1,0.99
+140,history,11-Sep,formal,0.36,1,1,1
+141,history,11-Sep,informal,0.97,1,1,1
+142,history,11-Sep,anxious,0.17,0.99,1,1
+143,history,11-Sep,optimistic,0.31,0.06,1,1
+144,history,11-Sep,persuasive,0.29,0.91,1,1
+145,history,The Magna Carta,formal,0.36,0.99,1,1
+146,history,The Magna Carta,informal,0.01,0.21,0.83,1
+147,history,The Magna Carta,anxious,0.17,0.56,1,1
+148,history,The Magna Carta,optimistic,0.28,0.01,1,1
+149,history,The Magna Carta,persuasive,0.11,0.01,0.57,1
+150,people,George Washington,formal,0.96,1,0.87,1
+151,people,George Washington,informal,0.7,0.45,1,1
+152,people,George Washington,anxious,1,1,1,1
+153,people,George Washington,optimistic,0.97,1,0.86,0.99
+154,people,George Washington,persuasive,0.99,1,1,1
+155,people,Rihanna,formal,0.57,0.01,0.79,0.98
+156,people,Rihanna,informal,0.06,0.01,0.33,0.99
+157,people,Rihanna,anxious,0.99,1,1,0.98
+158,people,Rihanna,optimistic,1,1,1,1
+159,people,Rihanna,persuasive,0.97,1,1,1
+160,people,Lionel Messi,formal,0.27,0.16,1,0.99
+161,people,Lionel Messi,informal,0.85,0.01,1,1
+162,people,Lionel Messi,anxious,0.02,0.04,0.65,1
+163,people,Lionel Messi,optimistic,0.66,0.01,1,0.99
+164,people,Lionel Messi,persuasive,0.74,1,1,1
+165,people,Pablo Picasso,formal,0.53,0.77,1,0.07
+166,people,Pablo Picasso,informal,0.43,0.41,1,0.99
+167,people,Pablo Picasso,anxious,0,0.67,1,1
+168,people,Pablo Picasso,optimistic,0.29,0.01,1,1
+169,people,Pablo Picasso,persuasive,0.86,0.99,0,1
+170,people,Elon Musk,formal,0.81,0.58,1,0.99
+171,people,Elon Musk,informal,0.17,0.64,0.79,1
+172,people,Elon Musk,anxious,0.14,0.37,0.46,0.55
+173,people,Elon Musk,optimistic,0.95,0.99,0.78,1
+174,people,Elon Musk,persuasive,0.22,0.41,1,1
+175,people,Martin Luther King Jr,formal,0.08,0.03,1,1
+176,people,Martin Luther King Jr,informal,0.39,1,1,0.99
+177,people,Martin Luther King Jr,anxious,0.79,0.91,0.45,1
+178,people,Martin Luther King Jr,optimistic,0.19,0.1,1,1
+179,people,Martin Luther King Jr,persuasive,0.09,0.34,0.8,1
+180,people,King Henry VIII,formal,0.54,0.16,0.56,1
+181,people,King Henry VIII,informal,0.67,0.67,1,1
+182,people,King Henry VIII,anxious,0.48,0.04,0,0.93
+183,people,King Henry VIII,optimistic,0.01,0.01,0.27,0.51
+184,people,King Henry VIII,persuasive,0.91,0.98,0.85,1
+185,people,Aristotle,formal,0.12,0.01,0.67,0.59
+186,people,Aristotle,informal,0.98,0.92,0.83,1
+187,people,Aristotle,anxious,0.27,1,0.8,1
+188,people,Aristotle,optimistic,0.95,0.47,0.88,1
+189,people,Aristotle,persuasive,0.56,0.07,1,1
+190,people,Abraham Lincoln,formal,0.31,0.1,1,1
+191,people,Abraham Lincoln,informal,0.71,0.33,0.92,0.99
+192,people,Abraham Lincoln,anxious,0.04,0.01,0.28,0
+193,people,Abraham Lincoln,optimistic,0.13,0.07,1,1
+194,people,Abraham Lincoln,persuasive,0.89,0.98,0.91,1
+195,people,Rasputin,formal,0.98,1,0.89,1
+196,people,Rasputin,informal,1,1,0.84,1
+197,people,Rasputin,anxious,0.44,0.94,0.95,1
+198,people,Rasputin,optimistic,0.14,0.01,1,1
+199,people,Rasputin,persuasive,0.95,0.9,0.3,0.99
+200,stories,"A young girl wakes up one morning with the ability to understand and communicate with animals, leading to unexpected adventures and discoveries.",formal,0.36,0.7,0.46,1
+201,stories,"A young girl wakes up one morning with the ability to understand and communicate with animals, leading to unexpected adventures and discoveries.",informal,0.01,0.37,0.48,1
+202,stories,"A young girl wakes up one morning with the ability to understand and communicate with animals, leading to unexpected adventures and discoveries.",anxious,0,0.04,0,1
+203,stories,"A young girl wakes up one morning with the ability to understand and communicate with animals, leading to unexpected adventures and discoveries.",optimistic,0.73,0.01,0.85,1
+204,stories,"A young girl wakes up one morning with the ability to understand and communicate with animals, leading to unexpected adventures and discoveries.",persuasive,0,0.47,0.59,1
+205,stories,"A man discovers a hidden room in his house that seems to exist in a different time period, and he becomes obsessed with uncovering its secrets.",formal,0.29,0.02,0,0
+206,stories,"A man discovers a hidden room in his house that seems to exist in a different time period, and he becomes obsessed with uncovering its secrets.",informal,0.65,0.95,1,0
+207,stories,"A man discovers a hidden room in his house that seems to exist in a different time period, and he becomes obsessed with uncovering its secrets.",anxious,0.01,0.01,0,0
+208,stories,"A man discovers a hidden room in his house that seems to exist in a different time period, and he becomes obsessed with uncovering its secrets.",optimistic,0.15,0.73,0.39,1
+209,stories,"A man discovers a hidden room in his house that seems to exist in a different time period, and he becomes obsessed with uncovering its secrets.",persuasive,0.02,0.01,0.6,1
+210,stories,"A struggling writer finds inspiration in a mysterious antique typewriter that allows them to write stories that come true, with unforeseen consequences.",formal,0.02,0.05,0,0
+211,stories,"A struggling writer finds inspiration in a mysterious antique typewriter that allows them to write stories that come true, with unforeseen consequences.",informal,0,0.01,0,0
+212,stories,"A struggling writer finds inspiration in a mysterious antique typewriter that allows them to write stories that come true, with unforeseen consequences.",anxious,0.01,0.06,0.6,0
+213,stories,"A struggling writer finds inspiration in a mysterious antique typewriter that allows them to write stories that come true, with unforeseen consequences.",optimistic,0,0.01,0,0
+214,stories,"A struggling writer finds inspiration in a mysterious antique typewriter that allows them to write stories that come true, with unforeseen consequences.",persuasive,0.03,0.05,0.39,0
+215,stories,"A person wakes up in a world where everyone's emotions are displayed as colorful auras, except for their own, which remains gray. They embark on a journey to understand why.",formal,0,0.01,0,0
+216,stories,"A person wakes up in a world where everyone's emotions are displayed as colorful auras, except for their own, which remains gray. They embark on a journey to understand why.",informal,0,0.01,0,0
+217,stories,"A person wakes up in a world where everyone's emotions are displayed as colorful auras, except for their own, which remains gray. They embark on a journey to understand why.",anxious,0,0.01,0,0
+218,stories,"A person wakes up in a world where everyone's emotions are displayed as colorful auras, except for their own, which remains gray. They embark on a journey to understand why.",optimistic,0.01,0.03,0.31,1
+219,stories,"A person wakes up in a world where everyone's emotions are displayed as colorful auras, except for their own, which remains gray. They embark on a journey to understand why.",persuasive,0,0.01,0,0
+220,stories,"A chef discovers a magical cookbook that allows them to cook meals that evoke vivid memories and emotions in those who taste them, transforming their restaurant into a place of extraordinary experiences.",formal,0.67,1,1,1
+221,stories,"A chef discovers a magical cookbook that allows them to cook meals that evoke vivid memories and emotions in those who taste them, transforming their restaurant into a place of extraordinary experiences.",informal,0.08,0.91,0,0
+222,stories,"A chef discovers a magical cookbook that allows them to cook meals that evoke vivid memories and emotions in those who taste them, transforming their restaurant into a place of extraordinary experiences.",anxious,0,0.04,0.24,0
+223,stories,"A chef discovers a magical cookbook that allows them to cook meals that evoke vivid memories and emotions in those who taste them, transforming their restaurant into a place of extraordinary experiences.",optimistic,0.15,0.48,0.77,0.01
+224,stories,"A chef discovers a magical cookbook that allows them to cook meals that evoke vivid memories and emotions in those who taste them, transforming their restaurant into a place of extraordinary experiences.",persuasive,0.93,1,1,1
+225,stories,"A world where dreams come true, but with unexpected consequences.",formal,0,0.25,0.36,1
+226,stories,"A world where dreams come true, but with unexpected consequences.",informal,0,0.01,0.77,0
+227,stories,"A world where dreams come true, but with unexpected consequences.",anxious,0.68,0.98,0.35,1
+228,stories,"A world where dreams come true, but with unexpected consequences.",optimistic,0.98,0.98,1,1
+229,stories,"A world where dreams come true, but with unexpected consequences.",persuasive,0.11,0.56,0.78,1
+230,stories,"A story from the perspective of a character who discovers they have the ability to time travel, and the consequences that ensue.",formal,0,0.02,1,1
+231,stories,"A story from the perspective of a character who discovers they have the ability to time travel, and the consequences that ensue.",informal,0.6,0.94,0.9,1
+232,stories,"A story from the perspective of a character who discovers they have the ability to time travel, and the consequences that ensue.",anxious,0.01,0.01,0.55,1
+233,stories,"A story from the perspective of a character who discovers they have the ability to time travel, and the consequences that ensue.",optimistic,0.09,0.23,1,1
+234,stories,"A story from the perspective of a character who discovers they have the ability to time travel, and the consequences that ensue.",persuasive,0.02,0.03,1,0
+235,stories,"In a dystopian future, a group of rebels fight against a tyrannical government with an unexpected weapon.",formal,0.05,0.35,0,1
+236,stories,"In a dystopian future, a group of rebels fight against a tyrannical government with an unexpected weapon.",informal,0.21,1,1,1
+237,stories,"In a dystopian future, a group of rebels fight against a tyrannical government with an unexpected weapon.",anxious,0.12,0.01,0,0
+238,stories,"In a dystopian future, a group of rebels fight against a tyrannical government with an unexpected weapon.",optimistic,0.36,0.98,0.84,1
+239,stories,"In a dystopian future, a group of rebels fight against a tyrannical government with an unexpected weapon.",persuasive,1,1,1,0.99
+240,stories,A mystery story where the main character wakes up with amnesia and must piece together their past to solve a crime.,formal,0.79,0.98,0,1
+241,stories,A mystery story where the main character wakes up with amnesia and must piece together their past to solve a crime.,informal,0.16,0.03,0.94,0
+242,stories,A mystery story where the main character wakes up with amnesia and must piece together their past to solve a crime.,anxious,0,0.01,0.98,0
+243,stories,A mystery story where the main character wakes up with amnesia and must piece together their past to solve a crime.,optimistic,0.99,1,0.74,1
+244,stories,A mystery story where the main character wakes up with amnesia and must piece together their past to solve a crime.,persuasive,0.03,0.3,0.86,0
+245,stories,"In a post-apocalyptic world, a small community struggles to survive against a mysterious threat that lurks in the shadows.",formal,0.31,0.12,1,1
+246,stories,"In a post-apocalyptic world, a small community struggles to survive against a mysterious threat that lurks in the shadows.",informal,0.78,0.59,1,0
+247,stories,"In a post-apocalyptic world, a small community struggles to survive against a mysterious threat that lurks in the shadows.",anxious,0.26,0.63,1,1
+248,stories,"In a post-apocalyptic world, a small community struggles to survive against a mysterious threat that lurks in the shadows.",optimistic,0.99,0.98,1,1
+249,stories,"In a post-apocalyptic world, a small community struggles to survive against a mysterious threat that lurks in the shadows.",persuasive,0.89,1,1,1
+250,diseases,cancer,formal,0.02,0.55,1,1
+251,diseases,cancer,informal,0,0.18,1,1
+252,diseases,cancer,anxious,0.46,0.71,0.71,0.99
+253,diseases,cancer,optimistic,0.06,0.35,1,1
+254,diseases,cancer,persuasive,0.04,0.11,1,1
+255,diseases,ebola,formal,0.43,0.96,1,0.98
+256,diseases,ebola,informal,0.93,1,1,0.98
+257,diseases,ebola,anxious,0.12,0.75,0.58,0.98
+258,diseases,ebola,optimistic,0.5,1,0.52,1
+259,diseases,ebola,persuasive,0.03,0.04,0.92,1
+260,diseases,tuberculosis,formal,0.52,0.12,1,1
+261,diseases,tuberculosis,informal,0.06,0.08,1,1
+262,diseases,tuberculosis,anxious,0.97,1,1,0.99
+263,diseases,tuberculosis,optimistic,0.02,0.03,0.54,0
+264,diseases,tuberculosis,persuasive,0.49,0.47,0.72,1
+265,diseases,hypertension,formal,0.33,0.01,1,1
+266,diseases,hypertension,informal,0.97,1,1,0.98
+267,diseases,hypertension,anxious,0.02,0.07,0.88,0
+268,diseases,hypertension,optimistic,0.05,0.08,1,0
+269,diseases,hypertension,persuasive,0,0.01,1,0
+270,diseases,heart disease,formal,0.82,1,1,1
+271,diseases,heart disease,informal,0.02,0.68,1,1
+272,diseases,heart disease,anxious,1,1,1,0.99
+273,diseases,heart disease,optimistic,0.93,1,1,1
+274,diseases,heart disease,persuasive,0.85,0.99,0.96,0
+275,diseases,Alzheimer's,formal,0.24,0.82,0.96,1
+276,diseases,Alzheimer's,informal,0.45,0.92,1,0.98
+277,diseases,Alzheimer's,anxious,0.01,0.06,1,1
+278,diseases,Alzheimer's,optimistic,0.17,0.67,1,1
+279,diseases,Alzheimer's,persuasive,0.21,1,0.8,1
+280,diseases,diabetes,formal,0.09,0.01,1,1
+281,diseases,diabetes,informal,0.72,1,1,1
+282,diseases,diabetes,anxious,0.01,0.04,0.52,1
+283,diseases,diabetes,optimistic,0.04,0.53,0.69,1
+284,diseases,diabetes,persuasive,0.77,0.98,1,0.99
+285,diseases,Schizophrenia,formal,0.03,0.01,1,0.99
+286,diseases,Schizophrenia,informal,0.91,0.68,1,0.99
+287,diseases,Schizophrenia,anxious,0.11,0.01,1,1
+288,diseases,Schizophrenia,optimistic,0.3,0.98,1,1
+289,diseases,Schizophrenia,persuasive,0,0.01,0.45,0
+290,diseases,HIV,formal,0.11,0.99,1,0.99
+291,diseases,HIV,informal,0.54,0.98,1,0.98
+292,diseases,HIV,anxious,0.36,1,1,1
+293,diseases,HIV,optimistic,0,0.03,0.73,1
+294,diseases,HIV,persuasive,0.23,0.9,0.86,1
+295,diseases,allergies,formal,0.01,0.92,1,1
+296,diseases,allergies,informal,0.16,0.02,1,1
+297,diseases,allergies,anxious,0,0.57,1,1
+298,diseases,allergies,optimistic,0.09,0.03,1,1
+299,diseases,allergies,persuasive,0,0.01,0.7,0.01
+300,nature,the effect of climate change on ecosystems,formal,0.16,0.03,1,1
+301,nature,the effect of climate change on ecosystems,informal,1,1,1,0.99
+302,nature,the effect of climate change on ecosystems,anxious,0,0.01,0,0
+303,nature,the effect of climate change on ecosystems,optimistic,0.01,0.09,0.26,1
+304,nature,the effect of climate change on ecosystems,persuasive,0.98,0.97,1,1
+305,nature,the consequences of deforestation around the world,formal,0.01,0.07,0.84,1
+306,nature,the consequences of deforestation around the world,informal,0.17,0.99,1,0.99
+307,nature,the consequences of deforestation around the world,anxious,0.93,0.51,1,1
+308,nature,the consequences of deforestation around the world,optimistic,0.86,1,1,1
+309,nature,the consequences of deforestation around the world,persuasive,0.46,1,0.72,1
+310,nature,rising sea levels,formal,0.01,0.02,0.77,0
+311,nature,rising sea levels,informal,0.06,0.4,1,0.99
+312,nature,rising sea levels,anxious,0.94,1,0,1
+313,nature,rising sea levels,optimistic,0.8,0.82,1,0.99
+314,nature,rising sea levels,persuasive,0.94,1,1,1
+315,nature,the possibility of renewable energy sources,formal,0.49,0.94,1,1
+316,nature,the possibility of renewable energy sources,informal,0.7,1,1,0.01
+317,nature,the possibility of renewable energy sources,anxious,1,1,1,1
+318,nature,the possibility of renewable energy sources,optimistic,0.84,1,1,1
+319,nature,the possibility of renewable energy sources,persuasive,0.91,1,1,1
+320,nature,the impact of captivity on animals,formal,0.01,0.05,0,0
+321,nature,the impact of captivity on animals,informal,0,0.01,0.68,0
+322,nature,the impact of captivity on animals,anxious,0.36,0.94,1,0.99
+323,nature,the impact of captivity on animals,optimistic,0.04,0.96,0.82,0.99
+324,nature,the impact of captivity on animals,persuasive,0.01,0.01,0.82,0.99
+325,nature,the intelligence of chimpanzees,formal,0.2,0.02,0.84,1
+326,nature,the intelligence of chimpanzees,informal,0.01,0.01,0.61,1
+327,nature,the intelligence of chimpanzees,anxious,0,0.01,0.72,0.77
+328,nature,the intelligence of chimpanzees,optimistic,0.88,0.01,0.48,0.98
+329,nature,the intelligence of chimpanzees,persuasive,0.86,0.36,1,1
+330,nature,the dangers of parasites,formal,0,0.16,1,1
+331,nature,the dangers of parasites,informal,0.11,0.01,0.55,0.01
+332,nature,the dangers of parasites,anxious,0.21,0.01,0.55,1
+333,nature,the dangers of parasites,optimistic,0.12,0.18,0.85,1
+334,nature,the dangers of parasites,persuasive,0.99,0.97,1,1
+335,nature,new farming techniques,formal,0.99,1,1,1
+336,nature,new farming techniques,informal,0.96,1,0.88,1
+337,nature,new farming techniques,anxious,0.06,0.01,0.52,0
+338,nature,new farming techniques,optimistic,0.3,1,1,1
+339,nature,new farming techniques,persuasive,0.22,0.71,0.57,1
+340,nature,the impact of natural disasters,formal,0.15,0.29,0.71,1
+341,nature,the impact of natural disasters,informal,0.18,0.02,1,1
+342,nature,the impact of natural disasters,anxious,0.12,0.93,0.9,1
+343,nature,the impact of natural disasters,optimistic,0.77,0.94,1,0.99
+344,nature,the impact of natural disasters,persuasive,1,1,1,1
+345,nature,the dangers of invasive species,formal,0.59,0.82,0.76,1
+346,nature,the dangers of invasive species,informal,0.55,0.31,0.52,1
+347,nature,the dangers of invasive species,anxious,0.41,0.55,0,1
+348,nature,the dangers of invasive species,optimistic,0.04,0.71,0.56,0.99
+349,nature,the dangers of invasive species,persuasive,0.96,1,1,0.99
+350,landmarks,Stonehenge,formal,0.96,1,1,1
+351,landmarks,Stonehenge,informal,0,0.27,1,1
+352,landmarks,Stonehenge,anxious,0.52,0.99,1,0.99
+353,landmarks,Stonehenge,optimistic,0,0.01,1,0
+354,landmarks,Stonehenge,persuasive,0.13,1,1,1
+355,landmarks,The Washington Monument,formal,0.06,1,1,0.99
+356,landmarks,The Washington Monument,informal,0.09,0.99,1,1
+357,landmarks,The Washington Monument,anxious,0.06,0.05,1,1
+358,landmarks,The Washington Monument,optimistic,1,1,0.69,1
+359,landmarks,The Washington Monument,persuasive,0.01,0.02,0.69,1
+360,landmarks,Machu Pichu,formal,0.74,0.71,1,1
+361,landmarks,Machu Pichu,informal,0.94,1,1,0.98
+362,landmarks,Machu Pichu,anxious,0.12,0.01,1,1
+363,landmarks,Machu Pichu,optimistic,0.14,1,0.8,1
+364,landmarks,Machu Pichu,persuasive,0,0.01,0,0
+365,landmarks,The Pyramids of Giza,formal,0.18,0.01,1,1
+366,landmarks,The Pyramids of Giza,informal,0.08,1,1,1
+367,landmarks,The Pyramids of Giza,anxious,0.27,0.61,1,0
+368,landmarks,The Pyramids of Giza,optimistic,0.94,1,1,1
+369,landmarks,The Pyramids of Giza,persuasive,0,0.01,0.3,0
+370,landmarks,Niagara Falls,formal,0.03,0.37,0,0.09
+371,landmarks,Niagara Falls,informal,0.23,1,1,1
+372,landmarks,Niagara Falls,anxious,0.02,0.13,1,1
+373,landmarks,Niagara Falls,optimistic,0.88,0.45,0,0
+374,landmarks,Niagara Falls,persuasive,0,0.01,0.74,0
+375,landmarks,Mount Rushmore,formal,1,1,1,0.98
+376,landmarks,Mount Rushmore,informal,0.94,0.99,0.81,0.98
+377,landmarks,Mount Rushmore,anxious,0.06,0.99,1,1
+378,landmarks,Mount Rushmore,optimistic,0.09,0.01,1,0.98
+379,landmarks,Mount Rushmore,persuasive,0,0.01,0.84,0
+380,landmarks,Taj Mahal,formal,0.01,1,1,1
+381,landmarks,Taj Mahal,informal,0,0.11,1,1
+382,landmarks,Taj Mahal,anxious,0.01,0.06,0.71,1
+383,landmarks,Taj Mahal,optimistic,0.15,0.89,1,1
+384,landmarks,Taj Mahal,persuasive,0,0.01,0.36,0
+385,landmarks,Palace of Versailles,formal,0.9,1,1,1
+386,landmarks,Palace of Versailles,informal,0,0.01,1,0.02
+387,landmarks,Palace of Versailles,anxious,0,0.01,1,0
+388,landmarks,Palace of Versailles,optimistic,0.8,0.96,0.83,1
+389,landmarks,Palace of Versailles,persuasive,0.11,1,1,1
+390,landmarks,Parthenon,formal,0.98,1,1,1
+391,landmarks,Parthenon,informal,0,0.01,0.42,1
+392,landmarks,Parthenon,anxious,0,0.01,0.23,0
+393,landmarks,Parthenon,optimistic,0.04,0.53,0.23,1
+394,landmarks,Parthenon,persuasive,0.11,0.03,0.73,0
+395,landmarks,The Colosseum,formal,0.91,0.21,1,1
+396,landmarks,The Colosseum,informal,0.97,1,1,1
+397,landmarks,The Colosseum,anxious,0.11,0.97,0.27,1
+398,landmarks,The Colosseum,optimistic,0.08,0.98,0.75,1
+399,landmarks,The Colosseum,persuasive,0.01,0.01,0.85,0.99

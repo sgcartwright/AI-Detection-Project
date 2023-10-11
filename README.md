@@ -5,6 +5,7 @@
     Methods Summary
     Usage
     Installation
+    Credits
 
 ### Project Overview
 
@@ -59,6 +60,7 @@ This project includes the following main methods:
 ### Usage
 
 The project provides methods to evaluate essays, generate content, and visualize results. To get started, you can call the relevant methods with appropriate arguments based on your specific use case.
+
 ### Installation
 
 To use this project, ensure you have the necessary Python libraries installed. You can install these libraries using pip:
@@ -66,4 +68,7 @@ To use this project, ensure you have the necessary Python libraries installed. Y
 pip install openai pandas selenium requests matplotlib seaborn
 
 Additionally, you will need to set up your OpenAI API key by replacing the placeholder in the code with your actual API key. You must do the same for Writer checker API.
+
+### Credits
+Created with Ryan Demolina and Ian DeLano
 
